@@ -1,8 +1,8 @@
 ---
 name: Custom issue template
-about: Describe this issue template's purpose here.
+about: DolphinDB database.
 title: ''
-labels: ''
+labels: 'DolphinDB database'
 assignees: ''
 
 ---
