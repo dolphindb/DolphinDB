@@ -25,6 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. Linux centos]
+ - Module: [e.g. Server/GUI/API/PLUGIN/]
  - Version [e.g. DolphinDB database V0.99.0]
 
 **Additional context**
