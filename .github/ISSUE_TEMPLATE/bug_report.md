@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve DolphinDB database
 title: ''
-labels: 'DolphinDB database'
+labels: ''
 assignees: ''
 
 ---
