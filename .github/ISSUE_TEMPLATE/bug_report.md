@@ -2,12 +2,12 @@
 name: Bug report
 about: Create a report to help us improve DolphinDB database
 title: ''
-labels: ''
+labels: 'DolphinDB database'
 assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the bug of DolphinDB database**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
